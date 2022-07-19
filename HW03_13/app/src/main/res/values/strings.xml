@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW03_</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
